@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TestDialogFragment</string>
+    <string name="diag1">Dialog Simple</string>
+    <string name="diag2">Dialog Positive</string>
+    <string name="diag3">Dialog Negative</string>
+    <string name="diag4">Dialog 4</string>
+
+    <string name="positive_popup_text_default">You have successfully completed the challenge. Keep it up to ...</string>
+    <string name="positive_popup_title_default">Like a boss!</string>
+    <string name="negative_popup_text_default">You have failed to complete the challenge</string>
+    <string name="negative_popup_title_default">Awww... Snap!</string>
+
+
+
+</resources>
